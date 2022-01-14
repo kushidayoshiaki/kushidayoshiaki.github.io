@@ -1,0 +1,24 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2022-01-14T11:30:29+09:00",
+  "id": "hukin",
+  "duration": 0,
+  "title": "共用ふきん等の廃止の検討します",
+  "summary": "eisei",
+  "source": "hukin.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "info"
+  ],
+  "tags": [
+    "web"
+  ],
+  "feedback": "https://github.com/kushidayoshiaki/kushidayoshiaki.github.io",
+  "url": "hukin"
+}
